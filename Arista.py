@@ -1,14 +1,14 @@
-class Aristas:
+class Arista:
     __color1 = '0'
     __color2 = '0'
 
     def __init__(self):
-        self.__color1 = 0
-        self.__color2 = 0
+        self.__color1 = '0'
+        self.__color2 = '0'
 
-    def __init__(self, color1, color2):
-        self.__color1 = color1
-        self.__color2 = color2
+    #def __init__(self, color1, color2):
+     #   self.__color1 = color1
+      #  self.__color2 = color2
 
     def setColor1(self, color1):
         self.__color1 = color1
