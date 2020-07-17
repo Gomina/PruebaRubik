@@ -1,4 +1,4 @@
-class Aristas:
+class Esquina:
     __color1 = 0
     __color2 = 0
 
