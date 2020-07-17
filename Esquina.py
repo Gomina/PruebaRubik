@@ -1,7 +1,7 @@
 class Esquina:
-    __color1 = 0
-    __color2 = 0
-    __color3 = 0
+    __color1 = '0'
+    __color2 = '0'
+    __color3 = '0'
 
     def __init__(self):
         self.__color1 = 0

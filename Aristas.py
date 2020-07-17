@@ -1,6 +1,6 @@
 class Aristas:
-    __color1 = 0
-    __color2 = 0
+    __color1 = '0'
+    __color2 = '0'
 
     def __init__(self):
         self.__color1 = 0
